@@ -1,0 +1,27 @@
+{
+  "palavras_chave": [
+    "eletrico",
+    "eletronico",
+    "automacao",
+    "valvula",
+    "EPI",
+    "bateria",
+    "disjuntor",
+    "nobreak",
+    "transformador",
+    "cabo",
+    "fio"
+  ],
+  "palavras_excluir": [
+    "prestacao de servico",
+    "prestacao de servicos",
+    "servico de",
+    "servicos de",
+    "manutencao",
+    "locacao",
+    "instalacao",
+    "mao de obra",
+    "reforma",
+    "execucao de obra"
+  ]
+}
